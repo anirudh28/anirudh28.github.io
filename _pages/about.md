@@ -18,19 +18,16 @@ Apart from my academic interests, I love to play football, journal, read novels,
 
 Background
 ======
-
 Software Engineer @ Samsung Research
 ------
 Prior to joining NYU Courant, I worked at Samsung Research, where I was a key member of the Voice Intelligence team. Our primary focus was on developing an innovative few-shot learning classification framework to assess the performance of Bixby Voice Assistant. We employed various data augmentation techniques and cutting-edge attention models to classify user sessions effectively.
 
 One of our notable achievements was the engineering of a unified attention model. This model significantly enhanced the classification of user sessions across diverse Bixby Voice Assistant applications, leading to a remarkable reduction in processing time by over 97%.
-
 Intern @ Samsung Research
 ------
 During my internship at [Samsung Research](https://research.samsung.com/sri-b), I played a vital role in enhancing the functionality of the Bixby Voice Assistant as part of the Voice Intelligence team. I focused on training and optimizing various recommendation models to elevate the overall performance. 
 
 My tasks involved conducting thorough benchmarking to evaluate the efficiency of classification models within the Bixby Voice Assistant's recommendation system. Recognizing my contributions during the internship, I was awarded a full-time job offer.
-
 Electrical Engineering Undergrad @ IIT Kanpur
 ------
 My academic journey at IIT Kanpur involved comprehensive coursework covering Control Theory, Microelectronics, Circuits, and other fundamental subjects. In addition to these, I delved into elective courses such as Algorithms, Data Structures, Machine Learning, Game Theory, and Micro/Macroeconomics amongst others. 
