@@ -27,9 +27,3 @@ Deep Learning, Natural Language Processing, Computer Vision, Machine Learning, D
 # Test Scores
  * GRE : 330/340 (Quant: 169, Verbal: 161, AWA: 4.5)
  * TOEFL : 113/120 (R: 30, L: 29, S: 26, W: 28)
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
