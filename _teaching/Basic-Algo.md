@@ -1,8 +1,7 @@
 ---
 title: "Basic Algorithms"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/Basic-Algo
+type: "Undergraduate Course"
 venue: "Courant Institute of Mathematical Sciences, New York University, Computer Science Department"
 date: Sept '23 to Dec '23 
 location: "New York, USA"
