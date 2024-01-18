@@ -3,17 +3,14 @@ main:
   - title: "CV"
     url: /files/Resume.pdf
     
-  - title: "Projects and Publications"
+  - title: "Publications and Projects"
     url: /publications/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Courses and Teachings"
+    url: /teaching/  
 
-  #- title: "Talks"
-   # url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/ 
+  - title: "Awards and Scholarships"
+    url: /teaching/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
