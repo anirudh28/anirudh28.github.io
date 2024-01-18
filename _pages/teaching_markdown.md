@@ -10,7 +10,7 @@ redirect_from:
 # Teaching
 
 ## Basic Algorithms
-### Courant Insitute of Mathematical Sciences, New York University, Sept '23 to Dec '23
+### Courant Institute of Mathematical Sciences, New York University, Sept '23 to Dec '23
 
 My job as a teaching assistant for Prof. Chee Yap involved assessing student code for accuracy, efficiency, and style, evaluating written components of exams and assignments, and ensuring fairness and consistency. Furthermore, I also offered detailed feedback to guide student growth and understanding and liaised with the course instructor about students' progress, challenges, and any potential issues.
 
