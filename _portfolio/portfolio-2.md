@@ -1,11 +1,8 @@
 ---
-title: "Future Video Frame Segmentation Prediction"
-excerpt: "Project to predict the segmentation mask of the 22nd frame of a video using the first 11 frames<br/><img src='/images/Future_Segmentation_Prediction.png'>"
+title: "Online Speaker Diarization with Interactive Learning"
+excerpt: "We formulate the online speaker diarization as a contextual-bandit problem similar to the online semi-supervised learning method<br/><img src='/images/Online_Speaker_Diarization.png'>"
 collection: portfolio
 ---
 
-In this work, we present different solutions for future segmentation prediction. Our goal is to predict the 22nd frame using the first 11 frames in synthetic videos consisting of 48 different 
-objects distinguished by shape, color and texture. We employ CNN based models for motion prediction and transformer based models for segmentation mask computations. We first train SimVP to 
-predict the 22nd frame from the first 11 frames and use this model to predict the 22nd frame as an intermediate result. We then train the Segformer model to predict segmentation masks of images 
-and run it on the frames predicted by SimVP to get the final output. We use the Jaccard similarity index to evaluate our model. 
-[Report](https://drive.google.com/file/d/1V2Es7hxqr4Xz4NaXwPqecYN1V652BbOe/view?usp=sharing) [Code](https://github.com/anirudh28/Video-Frame-Prediction)
+Speaker diarization is the task to partition an audio stream into homogeneous segments according to the speaker identity. A layman’s way to put it would be “Who spoke when”. It is observed that some state-of-the-art speaker diarization systems require really large datasets to train the clustering modules which might not be easily available everywhere. Here, the method of learning continually can be employed i.e., online learning. Online learning is a problem where data becomes available in a sequential order and is later used to update the best predictor for future data or reward associated with the data features. The only way sometimes, in which the online learning agent can learn from the experience is the feedback in terms of rewards approach. This online learning problem is particularly important in the field of sequential decision-making. In sequential decision-making, the best possible action to perform at each step to maximize the cumulative reward over time is chosen by the agent. It is important to obtain an optimal balance between the exploration of new actions and the exploitation of the possible rewards generated from known previous actions.
+[Report](https://drive.google.com/file/d/11H2h6XeTiZYgN1PKd4WoNvbdHW_VOdOl/view?usp=sharing) [Code](https://github.com/anirudh28/Online-Speaker-Diarization-with-Interactive-Learning)
