@@ -7,20 +7,17 @@ redirect_from:
   - /markdown.html
 ---
 
-## Teaching
+### Teaching
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+## Basic Algorithms
+# Courant Insitute of Mathematical Sciences, New York University, Computer Science Department, Sept '23 to Dec '23
+
+My job as a teaching assistant for Prof. Chee Yap involved assessing student code for accuracy, efficiency, and style, evaluating written components of exams and assignments, and ensuring fairness and consistency. Furthermore, I also offered detailed feedback to guide student growth and understanding and liaised with the course instructor about students' progress, challenges, and any potential issues.
+
+## Electronics Club Workshop
+# Indian Institute of Technology Kanpur, Dec '18
+
+I delivered lectures on IOT, communication and Logic Circuits during the winter workshop in December'18 held by the Electronics Club under the aegis of the Science & Technology Council, IIT Kanpur. I, along with my team, also conducted electronics events of the inter-hall technical competition TAKNEEK'18 with a team of 20 members.
 
 ## Tips and hints
 
