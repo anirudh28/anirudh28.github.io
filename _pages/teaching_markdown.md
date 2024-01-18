@@ -1,6 +1,5 @@
 ---
 permalink: /teaching_markdown/
-title: "Teaching and Misc."
 author_profile: true
 redirect_from: 
   - /md/
