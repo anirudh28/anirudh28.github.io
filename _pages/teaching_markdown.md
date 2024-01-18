@@ -9,12 +9,10 @@ redirect_from:
 
 
 # Teaching
- * ## Basic Algorithms (CSCI-UA 0310)
- ### Courant Institute of Mathematical Sciences, New York University, Fall 2023
+ * ## Basic Algorithms (CSCI-UA 0310), New York University, Fall 2023
 My job as a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/) involved assessing student code for accuracy, efficiency, and style, evaluating written components of exams and assignments, and ensuring fairness and consistency. Furthermore, I also offered detailed feedback to guide student growth and understanding and liaised with the course instructor about students' progress, challenges, and any potential issues.
 
- * ## Electronics Club Workshop
- ### Indian Institute of Technology Kanpur, Winter 2018
+ * ## Electronics Club Workshop, Indian Institute of Technology Kanpur, Winter 2018
 I delivered lectures on IOT, communication and Logic Circuits during the winter workshop in December'18 held by the [Electronics Club](https://iitk.ac.in/new/electronics-club) under the aegis of the Science & Technology Council, IIT Kanpur. I, along with my team, also conducted electronics events of the inter-hall technical competition TAKNEEK'18 with a team of 20 members.
 
 # Courses
