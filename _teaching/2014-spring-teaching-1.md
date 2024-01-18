@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Basic Algorithms"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Courant Institute of Mathematical Institute, New York University, Computer Science Department"
+date: Sep '23 to Dec '23
+location: "New York, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
