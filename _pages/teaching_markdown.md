@@ -9,7 +9,7 @@ redirect_from:
 
 
 # Teaching
-## Basic Algorithms
+## Basic Algorithms (CSCI-UA 0310)
 ### Courant Institute of Mathematical Sciences, New York University, Fall 2023
 My job as a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/) involved assessing student code for accuracy, efficiency, and style, evaluating written components of exams and assignments, and ensuring fairness and consistency. Furthermore, I also offered detailed feedback to guide student growth and understanding and liaised with the course instructor about students' progress, challenges, and any potential issues.
 
