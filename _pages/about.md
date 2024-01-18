@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master's student in Computer Science at [Courant Institute of Mathematical Sciences, New York University (NYU)](https://cims.nyu.edu/dynamic/), with a keen interest in Machine Learning and Software Development, with a cummulative GPA of 4.0/4.0. 
 
-I have a background in Mathematics (INMO Awardee), Statistics and Programming. I completed my undergraduate degree (B.Tech) at the [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), in the Electrical Engineering Department in 2021. My professional journey reflects a strong commitment to research, encompassing Machine Learning, Big Data Analysis, and Software Development. 
+I have a background in Mathematics [(INMO Awardee)](https://olympiads.hbcse.tifr.res.in/), Statistics and Programming. I completed my undergraduate degree (B.Tech) at the [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), in the Electrical Engineering Department in 2021. My professional journey reflects a strong commitment to research, encompassing Machine Learning, Big Data Analysis, and Software Development. 
 
 My experience spans both academic and industrial domains. My research interests lie within the field of Deep Learning and Natural Language Processing, with prior experience in enhancing the efficiency of voice assistants at [Samsung Research and Development Institute, Bangalore](https://research.samsung.com/sri-b).
 
