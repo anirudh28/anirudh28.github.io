@@ -1,7 +1,7 @@
 ---
 title: "A Semi-Supervised Approach for Multi-Domain Classification"
 collection: publications
-permalink: /publication/2023-10-10-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This research presents an innovative approach for addressing the classification of data originating from multiple domains when there is a scarcity of labeled data.'
 date: 2023-10-10
 venue: 'ICEET'
