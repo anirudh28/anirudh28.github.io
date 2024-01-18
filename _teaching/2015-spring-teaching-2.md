@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Electronics Club"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Indian Institute of Technology, Kanpur, Science & Technology Council"
+date: 2018-12-10
+location: "Kanpur, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I delivered lectures on IOT, communication and Logic Circuits during the winter workshop in December'18 held by the Electronics Club under the aegis of the Science & Technology Council, IIT Kanpur. I, along with my team, conducted electronics events of the inter-hall technical competition TAKNEEK'18 with a team of 20 members.
 
 Heading 1
 ======
