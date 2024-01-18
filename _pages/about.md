@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, I'm Anirudh!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently enrolled in a Master's program in Computer Science at NYU Courant, with a keen interest in Machine Learning and Software Development, with a cummulative GPA of 4.0/4.0. I have a background in Mathematics (INMO Awardee), Statistics and Programming. I completed my undergraduate degree (B.Tech) at the Indian Institute of Technology Kanpur (IITK), in the Electrical Engineering Department in 2021. My professional journey reflects a strong commitment to research, encompassing Machine Learning, Big Data Analysis, and Software Development. My experience spans both academic and industrial domains. My research interests lie within the field of Deep Learning and Natural Language Processing, with prior experience in enhancing the efficiency of voice assistants at Samsung Research and Development Institute, Bangalore.
+Apart from my academic interests, I love to journal and keep up on current developments in global affairs. I always strive to maintain a work/life balance.
 
 A data-driven personal website
 ======
