@@ -29,7 +29,7 @@ Intern @ Samsung Research
 ------
 During my internship at [Samsung Research](https://research.samsung.com/sri-b), I played a vital role in enhancing the functionality of the Bixby Voice Assistant as part of the Voice Intelligence team. I focused on training and optimizing various recommendation models to elevate the overall performance. 
 
-My tasks involved conducting thorough benchmarking to evaluate the efficiency of classification models within the Bixby Voice Assistant's recommendation system. Recognizing my contributions during the internship, I was awarded a full-time job offer.
+My tasks involved conducting thorough benchmarking to evaluate the efficiency of classification models within the [Bixby Voice Assistant](https://www.samsung.com/us/apps/bixby/) recommendation system. Recognizing my contributions during the internship, I was awarded a full-time job offer.
 
 Electrical Engineering Undergrad @ IIT Kanpur
 ------
