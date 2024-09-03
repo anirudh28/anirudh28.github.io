@@ -1,6 +1,6 @@
 ---
 title: "Dynamo Key-Value Store"
-excerpt: "Implementation and Analysis of a Weakly Consistent Key-Value Store - Dynamo<br/><img src='/images/DynamoDB.svg'>"
+excerpt: "Implementation and Analysis of a Weakly Consistent Key-Value Store - Dynamo<br/><img src='/images/DynamoDB.png'>"
 collection: portfolio
 ---
 
