@@ -3,7 +3,7 @@ title: "Variable Sized-Batch General Multiplication (Variable GEMM)"
 excerpt: "
 This repo improves Mixture-of-Experts (MoE) models by addressing load-imbalance during dynamic routing, enhancing inference performance on hardware 
 accelerators. It integrates CuBLAS and CuSparse, optimizing batched GEMM tasks for variable-sized inputs, resulting in significant efficiency gains 
-across different model sizes.<br/><img src='/images/VariableGEMM'>"
+across different model sizes.<br/><img src='/images/VariableGEMM.png'>"
 collection: portfolio
 ---
 
