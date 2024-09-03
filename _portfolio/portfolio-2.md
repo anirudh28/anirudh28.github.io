@@ -16,4 +16,4 @@ them into uniform-sized groups. This allows us to quantify the benefits of batch
 We evaluate our approach across three model sizes with varying numbers of experts and observe superior performance of variable-sized batching over 
 the baseline, confirming the efficiency gains. Additionally, we note that increasing batch size leads to reduced computation time due to enhanced 
 parallelization.
-[PPT](https://docs.google.com/presentation/d/1zngkSWLxD7omhyueg6ARBHEXD4qJyhn06vY7VSojBbk/edit#slide=id.gc6f90357f_0_0)[Code](https://github.com/anirudh28/VariableGEMM)
+[PPT](https://docs.google.com/presentation/d/1zngkSWLxD7omhyueg6ARBHEXD4qJyhn06vY7VSojBbk/edit#slide=id.gc6f90357f_0_0) [Code](https://github.com/anirudh28/VariableGEMM)
