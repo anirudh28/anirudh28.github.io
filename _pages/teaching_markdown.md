@@ -9,7 +9,10 @@ redirect_from:
 
 
 # Teaching
- * ## Basic Algorithms (CSCI-UA 0310), New York University, Fall 2023
+ * ## Fundamental Algorithms (CSCI-GA 1170), New York University, Fall 2024
+As a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/), I assessed exams and assignments to maintain fairness and consistency, providing detailed feedback to support student development. I also communicated regularly with the instructor to discuss student progress and address any concerns.
+
+ * ## Basic Algorithms (CSCI-UA 0310), New York University, Fall 2023 and Spring 2024
 My job as a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/) involved assessing student code for accuracy, efficiency, and style, evaluating written components of exams and assignments, and ensuring fairness and consistency. Furthermore, I also offered detailed feedback to guide student growth and understanding and liaised with the course instructor about students' progress, challenges, and any potential issues.
 
  * ## Electronics Club Workshop, Indian Institute of Technology Kanpur, Winter 2018
