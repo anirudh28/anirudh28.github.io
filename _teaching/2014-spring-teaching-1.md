@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "New York University, Computer Science Department"
-date: Sep '23 to Dec '23
+date: Sep '23 to May '24
 location: "New York, USA"
 ---
 
