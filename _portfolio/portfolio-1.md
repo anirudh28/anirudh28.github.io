@@ -1,6 +1,6 @@
 ---
 title: "From BERT to Mamba: Evaluating Deep Learning for Efficient QA Systems"
-excerpt: "This work explores the trade-offs between accuracy and computational efficiency in question-answering (QA) systems comprising of LLMs<br/><img src='/images/QA.png'>"
+excerpt: "This work explores the trade-offs between accuracy and computational efficiency in question-answering (QA) systems comprising of LLMs<br/><img src='/images/QA.jpg'>"
 collection: portfolio
 ---
 
