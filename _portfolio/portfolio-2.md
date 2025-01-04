@@ -1,6 +1,6 @@
 ---
 title: "Distributed Financial Risk Assessment"
-excerpt: "This project aims to implement a distributed framework for financial risk assessment using Monte Carlo simulations to estimate Value at Risk (VaR) and Conditional Value at Risk (CVaR) by leveraging Spark's distributed computing capabilities.<br/><img src='/images/QA.png'>"
+excerpt: "This project aims to implement a distributed framework for financial risk assessment using Monte Carlo simulations to estimate Value at Risk (VaR) and Conditional Value at Risk (CVaR) by leveraging Spark's distributed computing capabilities.<br/><img src='/images/VaR.jpg'>"
 collection: portfolio
 ---
 
