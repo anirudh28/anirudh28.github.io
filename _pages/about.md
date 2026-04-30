@@ -12,12 +12,16 @@ I am a Software Engineer at Google, and a member of the YouTube Shorts Recommend
 
 I obtained my masters in Computer Science from [Courant Institute of Mathematical Sciences, New York University (NYU)](https://cims.nyu.edu/dynamic/). I have a background in Mathematics [(INMO Awardee)](https://olympiads.hbcse.tifr.res.in/), Statistics and Programming. I completed my undergraduate degree (B.Tech) at the [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), in the Electrical Engineering Department in 2021.
 
-My experience spans both academic and industrial domains. My research interests lie within the field of Deep Learning and Natural Language Processing, with prior experience in enhancing the efficiency of voice assistants at [Samsung Research](https://research.samsung.com/sri-b).
+My experience spans both academic and industrial domains. My research interests lie within the field of Deep Learning and Natural Language Processing, with prior experience in enhancing the efficiency of voice assistants at [Samsung Research](https://research.samsung.com/sri-b). I also worked as a software engineer at Amazon in summer of 2025.
 
 Apart from my academic interests, I love to play football, journal, read novels, and keep up with current developments around the world.
 
 Background
 ======
+
+Software Engineer @ Amazon
+------
+After graduating from grad school, I worked at Amazon where I worked for upgradation of data pipelines, which improved performance, resolved backward compatibility issues, managed dependencies and addressed runtime changes across services
 
 Master's in Computer Science @ NYU Courant
 ------
