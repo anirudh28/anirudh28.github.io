@@ -21,7 +21,7 @@ Background
 
 Master's in Computer Science @ NYU Courant
 ------
-My academic journey at NYU involved comprehensive coursework and projects in Reinforcement Learning, Parallel Algorithms, Deep Learning, Natural Language Processing, Computer Vision amongst others.
+My academic journey at NYU involved comprehensive coursework and projects in Reinforcement Learning, Parallel Algorithms, Deep Learning, Natural Language Processing and Computer Vision amongst others.
 
 Software Engineer @ Samsung Resear
 ------
