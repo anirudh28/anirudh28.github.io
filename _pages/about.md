@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at Google, and a member of the YouTube Shorts Recommendation team , engineering the algorithms that power the global shorts feed. 
+I am a Software Engineer at Google, and a member of the YouTube Shorts Recommendation team, engineering the algorithms that power the global Shorts feed. 
 
 I obtained my masters in Computer Science from [Courant Institute of Mathematical Sciences, New York University (NYU)](https://cims.nyu.edu/dynamic/). I have a background in Mathematics [(INMO Awardee)](https://olympiads.hbcse.tifr.res.in/), Statistics and Programming. I completed my undergraduate degree (B.Tech) at the [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), in the Electrical Engineering Department in 2021.
 
