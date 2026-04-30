@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Anirudh Garg"
   avatar           : "Profile_Picture.jpg"
-  bio              : "Pursuing Master's in CS @ NYU Courant. Ex - Samsung Research. Love to dabble in Machine Learning and Artificial Intelligence."
-  location         : "New York, USA"
-  employer         : "New York University"
+  bio              : "Google SWE. Ex - Amazon, Samsung Research. MS CS @ NYU. EE B.Tech @ IIT Kanpur. Love to dabble in Machine Learning and Artificial Intelligence."
+  location         : "Sunnyvale, CA, USA"
+  employer         : "Google"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VLQv3doAAAAJ&hl=en"
   email            : "ag9563@nyu.edu"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "i_anirudhgarg"
+  twitter          :
   vine             :
   weibo            :
   xing             :
