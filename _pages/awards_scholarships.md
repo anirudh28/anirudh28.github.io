@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
- * **Software Competency Test** - Cleared the Software Competency Test - Professional Level within 5 months of joining the [Samsung Research Institute](https://research.samsung.com/sri-b) with 100% marks.
  * **IIT Kanpur Academic Merit Award**: Ranked among the top 5% of students in my batch at [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) (2018)
  * **Indian National Mathematical Olympiad** - Conferred with a certificate of merit at Indian National Mathematical Olympiad in 2016 after clearing the
 Regional Mathematical Olympiad(North West Region) in 2014 and 2015 with ranks within the top 10% by [Tata Institute of Fundamental Research](https://www.tifr.res.in/)
