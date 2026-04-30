@@ -9,6 +9,9 @@ redirect_from:
 
 
 # Teaching
+ * ## Fundamental Algorithms (CSCI-GA 1170), New York University, Spring 2025
+As a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/), I assessed exams and assignments to maintain fairness and consistency, providing detailed feedback to support student development. I also communicated regularly with the instructor to discuss student progress and address any concerns.
+
  * ## Fundamental Algorithms (CSCI-GA 1170), New York University, Fall 2024
 As a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/), I assessed exams and assignments to maintain fairness and consistency, providing detailed feedback to support student development. I also communicated regularly with the instructor to discuss student progress and address any concerns.
 
@@ -19,7 +22,7 @@ My job as a teaching assistant for [Prof. Chee Yap](https://cs.nyu.edu/yap/) inv
 I delivered lectures on IOT, communication and Logic Circuits during the winter workshop in December'18 held by the [Electronics Club](https://iitk.ac.in/new/electronics-club) under the aegis of the Science & Technology Council, IIT Kanpur. I, along with my team, also conducted electronics events of the inter-hall technical competition TAKNEEK'18 with a team of 20 members.
 
 # Courses
-Deep Learning, Natural Language Processing, Computer Vision, Machine Learning, Data Mining, Data Structures and Algorithms, Image Processing, Distributed Systems, Operating Systems, Probability and Statistics, Differential Equations, Linear algebra, and Complex Variables and Analysis
+Reinforcement Learning, Parallel Algorithms, Deep Learning, Natural Language Processing, Computer Vision, Machine Learning, Data Mining, Data Structures and Algorithms, Image Processing, Distributed Systems, Operating Systems, Probability and Statistics, Differential Equations, Linear algebra, and Complex Variables and Analysis
 
 # Programming Languages and Softwares
  * C, C++, Java, Python, SQL, MATLAB, Git, Linux, LATEX
